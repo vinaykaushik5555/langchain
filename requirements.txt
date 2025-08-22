@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # LangChain Core
+=======
+>>>>>>> d3950bd (Add similarity search and embedding code)
 langchain
 langchain-core
 
